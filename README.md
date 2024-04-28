@@ -15,8 +15,8 @@ Problem Statement :
 
 Insight and Recommendation :
 1. - The Brie Carre Pizza contributes to the minimum revenue
-   -The Brie Carre Pizza contributes to minimum total quantities
-   -The Brie Carre Pizza contributes to minimum total orders,
+   - The Brie Carre Pizza contributes to minimum total quantities
+   - The Brie Carre Pizza contributes to minimum total orders,
 
    Suggest can delete The Brie Carre Pizza from menu to prevent further food wastage.
    
@@ -30,7 +30,7 @@ Insight and Recommendation :
 6. Classic Pizza Category Contributes 14.888 pcs to maximum sales, suggest can make promo for other pizza category
 7. - The Thai Chicken Pizza contributes to the maximum revenue
    - The Classic Deluxe Pizza contributes to maximum total quantities
-  - The Classic Deluxe Pizza contributes to maximum total orders
+   - The Classic Deluxe Pizza contributes to maximum total orders
     
     Suggest can make campaign promo for other Pizza
 
