@@ -1,8 +1,8 @@
 # Pizza-Sales-Query-Power-BI
 
-Stakeholders : Sales Manager
+Stakeholder : Sales Manager
 
-Problem Statement : 
+Problem Statement : Sales Manager have problem with sales performance, he wants to know :
 1.	5 worst sellers by revenue, total quantity and total orders
 2.	How  is daily trend for total orders
 3.	How is monthly trend for total orders
